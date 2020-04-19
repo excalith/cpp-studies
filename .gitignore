@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Custom Executables
+*.dSYM
+tic-tac-toe/tic-tac-toe
