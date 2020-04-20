@@ -32,6 +32,5 @@
 *.app
 
 # Custom Executables
+build
 *.dSYM
-01-tic-tac-toe/tic-tac-toe
-02-hangman/hangman
