@@ -33,5 +33,5 @@
 
 # Custom Executables
 *.dSYM
-tic-tac-toe/tic-tac-toe
-hangman/hangman
+01-tic-tac-toe/tic-tac-toe
+02-hangman/hangman
