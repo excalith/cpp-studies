@@ -34,3 +34,4 @@
 # Custom Executables
 *.dSYM
 tic-tac-toe/tic-tac-toe
+hangman/hangman
